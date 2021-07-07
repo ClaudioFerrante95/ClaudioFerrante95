@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ClaudioFerrante95
-- 👀 I’m interested in Computer science
+- 👀 I’m interested in computer science
 - 🌱 I’m currently working on my thesis 
 - 📫 How to reach me claudio.ferrante95@gmail.com
 
